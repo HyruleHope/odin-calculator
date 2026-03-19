@@ -1,0 +1,29 @@
+#operands{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 6%;
+}
+
+#numbers{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 6%;
+}
+
+.classicButtons{
+
+}
+
+.equalButton{
+    width: 62%;
+}
+
+#displayCase{
+    border: 1px solid black;
+    width: 6%;
+    height: 50px;
+    text-align: right;
+    margin-bottom: 1%;
+}
